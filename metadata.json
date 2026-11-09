@@ -1,0 +1,6 @@
+{
+  "name": "LoomExtract — Web Media & Image Grabber",
+  "description": "High-precision web asset inspector and media extractor. Grab images, inline SVGs, CSS backgrounds, video streams, audio, and OpenGraph social cards from any URL with batch ZIP export and format conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
